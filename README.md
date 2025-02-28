@@ -31,3 +31,6 @@ A Distributed Database Management System (DDBMS) designed to support multi-user 
 - View logs for query details and error reports.
 - Use the Global Data Dictionary to check data distribution.
 - Generate table dumps and ERDs as needed.
+
+
+![project-design](https://github.com/user-attachments/assets/3e8ca807-18d8-4ec4-a160-64ab23b37e4f)
